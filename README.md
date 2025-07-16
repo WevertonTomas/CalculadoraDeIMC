@@ -8,11 +8,6 @@ Este programa em linguagem C realiza o cálculo do **IMC (Índice de Massa Corpo
 
 - Solicita o peso e a altura do usuário.
 - Calcula automaticamente o IMC com base na fórmula:
-  
-  \[
-  \text{IMC} = \frac{\text{peso}}{\text{altura}^2}
-  \]
-
 - Exibe o valor do IMC com uma casa decimal.
 - Informa em qual faixa de classificação o usuário se encontra:
 
